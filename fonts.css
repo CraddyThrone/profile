@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Nunito Sans";
+    font-weight: 800;
+    font-style: normal;
+    src: local("Nunito Sans"),
+        url("fonts/NunitoSans_ExtraBold.woff") format('woff'),
+        url("fonts/NunitoSans_ExtraBold.woff2") format('woff2'),
+        url("fonts/NunitoSans_ExtraBold.eot") format('eot');
+
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Nunito Sans"),
+        url("fonts/NunitoSans_Bold.woff") format('woff'),
+        url("fonts/NunitoSans_Bold.woff2") format('woff2'),
+        url("fonts/NunitoSans_Bold.eot") format('eot');
+
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-weight: 600;
+    font-style: normal;
+    src: local("Nunito Sans"),
+        url("fonts/NunitoSans_SemiBold.woff") format('woff'),
+        url("fonts/NunitoSans_SemiBold.woff2") format('woff2'),
+        url("fonts/NunitoSans_SemiBold.eot") format('eot');
+
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Nunito Sans"),
+        url("fonts/NunitoSans_Regular.woff") format('woff'),
+        url("fonts/NunitoSans_Regular.woff2") format('woff2'),
+        url("fonts/NunitoSans_Regular.eot") format('eot');
+
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Nunito Sans";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Nunito Sans"),
+        url("fonts/NunitoSans_Light.woff") format('woff'),
+        url("fonts/NunitoSans_Light.woff2") format('woff2'),
+        url("fonts/NunitoSans_Light.eot") format('eot');
+
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "NEXT ART";
+    font-weight: 500;
+    font-style: normal;
+    src: local("NEXT ART"),
+        url("fonts/NextArt_Bold.woff") format('woff'),
+        url("fonts/NextArt_Bold.woff2") format('woff2'),
+        url("fonts/NextArt_Bold.eot") format('eot');
+
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Mont";
+    font-weight: 900;
+    font-style: normal;
+    src: local("Mont"),
+        url("fonts/Mont.woff") format('woff'),
+        url("fonts/Mont.woff2") format('woff2'),
+        url("fonts/Mont.eot") format('eot');
+
+    font-display: swap;
+}
